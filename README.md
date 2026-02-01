@@ -43,7 +43,6 @@ Progress is tracked here: [`docs/roadmap.md`](docs/roadmap.md)
 - Roadmap: [`docs/roadmap.md`](docs/roadmap.md)
 - Engineering decisions: [`docs/decisions.md`](docs/decisions.md)
 - Screenshots: `docs/screenshots/`
-- Wireframes / mockups: `docs/wireframes/`
 
 ---
 

@@ -7,7 +7,6 @@ This roadmap is a living checklist. The goal is to build a clean portfolio MVP f
 ## Milestone 0 — Foundation (Docs + Setup)
 - [x] Create repository
 - [x] Add initial documentation structure (README / roadmap / decisions / changelog)
-- [ ] Add wireframe/mockup images to `docs/wireframes/`
 - [ ] Bootstrap Next.js project
 - [ ] Setup Tailwind + shadcn/ui baseline
 
