@@ -52,7 +52,15 @@ Project content (title, tags, repo links, and tab content) will be stored locall
 ---
 
 ## 🚀 Getting Started
-> Coming soon. The Next.js project will be bootstrapped after the initial documentation is committed.
+
+### Running Locally
+  ```bash
+  cd web
+  npm install
+  npm run dev
+  ``` 
+
+Open:http://localhost:3000
 
 ---
 

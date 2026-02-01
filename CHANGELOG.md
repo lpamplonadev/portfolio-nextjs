@@ -14,9 +14,10 @@ This project loosely follows a "Keep a Changelog" style:
 ### Added
 - Initial documentation structure (README, roadmap, decisions)
 - Project goals and MVP plan
+- Bootstrap next.js project
 
 ### Changed
-- N/A
+- Added local run instructions
 
 ### Fixed
 - N/A
