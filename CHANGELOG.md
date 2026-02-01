@@ -3,6 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 This project loosely follows a "Keep a Changelog" style:
+
 - Added
 - Changed
 - Fixed
@@ -11,16 +12,22 @@ This project loosely follows a "Keep a Changelog" style:
 ---
 
 ## [Unreleased]
+
 ### Added
+
 - Initial documentation structure (README, roadmap, decisions)
 - Project goals and MVP plan
 - Bootstrap next.js project
-
-### Changed
 - Added local run instructions
 
+### Changed
+
+- N/A
+
 ### Fixed
+
 - N/A
 
 ### Removed
+
 - N/A

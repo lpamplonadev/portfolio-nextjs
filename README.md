@@ -7,6 +7,7 @@ This repo is focused on the **front-end** only. Each backend project will be dis
 ---
 
 ## 🎯 Goals
+
 - Centralize my professional presentation (bio, skills, contact)
 - Showcase backend projects with clear summaries and links to repositories
 - Provide a **project detail page** per project with structured information (tabs)
@@ -15,6 +16,7 @@ This repo is focused on the **front-end** only. Each backend project will be dis
 ---
 
 ## ✨ Planned Features (MVP)
+
 - Home page with: About me + Skills + Projects
 - Projects section with **carousel navigation**
 - Project cards with:
@@ -27,6 +29,7 @@ This repo is focused on the **front-end** only. Each backend project will be dis
 ---
 
 ## 🧱 Tech Stack (planned)
+
 - Next.js (App Router)
 - TypeScript
 - TailwindCSS
@@ -35,11 +38,13 @@ This repo is focused on the **front-end** only. Each backend project will be dis
 ---
 
 ## 🗺️ Roadmap
+
 Progress is tracked here: [`docs/roadmap.md`](docs/roadmap.md)
 
 ---
 
 ## 📚 Documentation
+
 - Roadmap: [`docs/roadmap.md`](docs/roadmap.md)
 - Engineering decisions: [`docs/decisions.md`](docs/decisions.md)
 - Screenshots: `docs/screenshots/`
@@ -47,6 +52,7 @@ Progress is tracked here: [`docs/roadmap.md`](docs/roadmap.md)
 ---
 
 ## 🧩 Project Data
+
 Project content (title, tags, repo links, and tab content) will be stored locally at first (TS/JSON), so the portfolio works without a backend.
 
 ---
@@ -54,15 +60,17 @@ Project content (title, tags, repo links, and tab content) will be stored locall
 ## 🚀 Getting Started
 
 ### Running Locally
-  ```bash
-  cd web
-  npm install
-  npm run dev
-  ``` 
+
+```bash
+cd web
+npm install
+npm run dev
+```
 
 Open:http://localhost:3000
 
 ---
 
 ## 📄 License
+
 TBD
